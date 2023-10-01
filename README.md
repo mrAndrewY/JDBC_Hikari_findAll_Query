@@ -29,6 +29,8 @@ Program logic is:
 To compile and start the project:
 ************************************************************
 cd src/Chat
+
 mvn compile
+
 mvn exec:java -Dexec.mainClass=edu.school21.chat.app.Program
 ************************************************************
